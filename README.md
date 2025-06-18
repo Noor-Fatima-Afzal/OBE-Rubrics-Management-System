@@ -58,5 +58,5 @@ A Streamlit-powered web app to manage Outcome-Based Education (OBE) data: studen
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/obe-rubrics-management.git
+git clone https://github.com/Noor-Fatima-Afzal/obe-rubrics-management.git
 cd obe-rubrics-management
